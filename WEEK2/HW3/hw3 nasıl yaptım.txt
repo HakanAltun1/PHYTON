@@ -1,0 +1,3 @@
+PAMÝR diye bir girdi girdim.
+bunu bir kez dondurdum.
+PAMÝR in "P" harfini ve "R" harfini alýp gerisini silerek ekrana yansittim.

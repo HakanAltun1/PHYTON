@@ -1,0 +1,4 @@
+İki tane degisken atadim bunlar "ilk" ve "iki"
+Birde stringi "a" degiskenine atadim.
+girilen 2 sayiyi silecek bu yuzden stringi "a" ya girilen ikinci sayiyi da baska atadigim "a2" ya atadim 
+Ve ciktiyi gösterdim.

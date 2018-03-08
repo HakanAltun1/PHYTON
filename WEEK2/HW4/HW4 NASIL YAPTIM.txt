@@ -1,0 +1,4 @@
+Bir girdi girilmesini istiyoruz
+bu girdinin tam ortasi tek harf oluyorsa polidrom oluyor
+eger ikisinin arasýnda bosluk varsa polidrom olmuyor
+ve bunu cikti olarak gosteriyor.

@@ -1,0 +1,4 @@
+Sayi1 Ve Sayi2 Olmak uzere iki sayi yazdim.
+Alt satirda 100 e kadar sayi1 ve sayi2 yi döndürdüm 
+Sonra 100 de sonra donguden cikardim
+Sonunda ise sonuc degiskenini yazdirdim.
