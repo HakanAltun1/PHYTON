@@ -1,0 +1,7 @@
+bir fonksiyon olusturdum bu "a" fonksiyonu
+sonrasinda "x" adýnda deger girdim.
+bunlari bir donguye soktum
+donguye "a" daki "x" leri ekledim
+ikinci for dongüsünü olusturdum
+tersine cevirdim
+ekrana bastim.
