@@ -1,9 +1,14 @@
-def rvs(a):
-    x = []
-    for i in range(len(a)):
-        x.append(a[i])
-    for j in range(int(len(x) / 2)):
-        x[j], x[len(x) - 1 - j] = x[len(x) - 1 - j], x[j]
-    return x
-var = input("YAZINIZI GİRİNİZ: ")
-print(rvs(var))
+def rvs(yazi):
+
+    x = len(yazi)
+    dizi = []
+
+    for i in range(x):
+        x = x - 1
+        dizi.extend(yazi[x])
+
+    dizi = ''.join(dizi)
+    return dizi
+
+klm = input("Giriniz ")
+print(rvs(klm))
