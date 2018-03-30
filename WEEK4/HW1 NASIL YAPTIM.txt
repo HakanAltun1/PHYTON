@@ -1,0 +1,3 @@
+Calculator adýnda bir sýnýf oluþturuldu.Bu methodlarýn sonuna 'infix2Postfix' adýnda bir method oluþturdum. Method içerisine iþlem önceliðini belirten deðerlerini girdim. Çarpma ve bölme iþlemleri toplama ve çýkarma iþlemlerine göre daha öncelikli olduðu için bu iþlemlere 2 deðerini atadým. Kalan toplama ve çýkarma iþlemlerine 1 deðerini atadým. 
+Infix " + , - , * , / " iþlemlerinden biriyse önceliklerini kontrol ederek Stack'e ekler veya postfix arrayine yazar.
+Oluþan postfix arrayi birleþtirilerek yazdýrýlýr.
